@@ -1,5 +1,7 @@
 # Image-filter program
 
+OOP Team project 
+
 국연우, 양종원, 김기재, 이선민
 
 
